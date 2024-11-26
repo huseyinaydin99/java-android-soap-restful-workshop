@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Selamlar A.W :D</string>
+    <string name="hello_world">BABA MARABA</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="title_activity_main">Selamlar menü düğmesine bas.</string>
+</resources>
