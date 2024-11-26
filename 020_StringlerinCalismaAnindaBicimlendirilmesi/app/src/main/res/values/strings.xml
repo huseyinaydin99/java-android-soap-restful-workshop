@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">_020_StringlerinCalismaAnindaBicimlendirilmesi</string>
+    <string name="hello_world">Selamun Aleyküm</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="title_activity_main">Ana Aktivite</string>
+
+    <string name="isbasvurusu">İŞ BAŞVURUSU</string>
+    <string name="string_formatlarini_goster">String Formatlarını Göster</string>
+    <string name="adinizinsoyadinizinaciklamasi">Adınızı ve soyadınızı giriniz.</string>
+    <string name="posizyonaciklamasi">Tercih Edilen Pozisyon</string>
+    <string name="tecrubeaciklamasi">Tecrübe Alanı</string>
+
+    <string name="kodGelistiricisi">Kod Geliştiricisi</string>
+    <string name="takimlideri">Takım Lideri</string>
+    <string name="projeYoneticisi">Proje Yöneticisi</string>
+
+    <string-array name="pozisyon">
+        <item>@string/kodGelistiricisi</item>
+        <item>@string/takimlideri</item>
+        <item>@string/projeYoneticisi</item>
+    </string-array>
+
+    <string name="ihtiyacDurumu">Bu konum için arayışımız sürüyor! </string>
+    <string name="iletisimeGecmeMesaji">Sizin ile %1$d gün içinde iletişime geçilecektir.</string>
+    <string name="posizyonMesaji">Şirketimize başvuru yaptığınız posizyon %1$s.</string>
+
+    <string name="tecrubeMesaji">Değerli aday sayın %1$s siz bu %2$s işine  başvurmak için emin misiniz?</string>
+    <string name="tecrubeMesaji2"> %2$s işine başvurmak için değerli aday sayın %1$s siz emin misiniz?</string>
+
+    <string name="tecrube1">Android Programlama</string>
+    <string name="tecrube2">iPhone Programlama</string>
+    <string name="tecrube3">Blackberry Programlama</string>
+
+    <string-array name="tecrubeler">
+        <item >@string/tecrube1</item>
+        <item >@string/tecrube2</item>
+        <item >@string/tecrube3</item>
+        <item>Windows Phone Programlama</item>
+    </string-array>
+</resources>
