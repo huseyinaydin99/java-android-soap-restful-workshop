@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selamun Aleyküm"
+        tools:context=".MainActivity" />
+
+    <TextView
+        android:id="@+id/txtEposta"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="email"
+        android:text="Eposta: huseyinaydin99@gmail.com"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txtTelefon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="phone"
+        android:text="Telefon no: 0555 555 55 55"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txWebAdresi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="web"
+        android:text="Web Adresi: https://www.github.com/huseyinaydin99"
+        android:textSize="16sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/txtAdres"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="map"
+        android:text="Adres: Niğde"
+        android:textSize="16sp" >
+    </TextView>
+</LinearLayout>
