@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arabalar>
+    <araba>
+        <marka>RENAULT</marka>
+        <model>Broadway</model>
+        <renk>Gri</renk>
+    </araba>
+    <araba>
+        <marka>RENAULT</marka>
+        <model>Toros(alırsın Toros olursun horoz. 12 kişi biniyoros.)</model>
+        <renk>Siyah</renk>
+    </araba>
+    <araba>
+        <marka>ANADOL</marka>
+        <model>Otosan 500</model>
+        <renk>Beyaz</renk>
+    </araba>
+    <araba>
+        <marka>Ford</marka>
+        <model>ShellBy GT(Alırsın ford olursun lord. 15 kişi binmiyoruk. (:)</model>
+        <renk>Mavi</renk>
+    </araba>
+    <araba>
+        <marka>TOFAŞ</marka>
+        <model>Kartal</model>
+        <renk>Kara</renk>
+    </araba>
+</arabalar>
