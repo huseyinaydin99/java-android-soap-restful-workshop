@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">013_ListView_Ve_ListActivity</string>
+    <string-array name="arabalar">
+        <item>Renault Broadway</item>
+        <item>Renault Toros</item>
+        <item>Renault Flash</item>
+        <item>Opel Astra</item>
+    </string-array>
+    <string-array name="web_adresleri">
+        <item>https://www.github.com/huseyinaydin99</item>
+        <item>https://www.github.com/huseyinaydin99</item>
+        <item>https://www.github.com/huseyinaydin99</item>
+        <item>https://www.github.com/huseyinaydin99</item>
+    </string-array>
+</resources>
