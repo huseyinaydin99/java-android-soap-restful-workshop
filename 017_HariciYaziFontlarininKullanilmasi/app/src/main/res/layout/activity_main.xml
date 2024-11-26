@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selamun Aleyküm"
+        tools:context=".MainActivity" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Font : &apos;sans&apos;"
+        android:typeface="sans" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="&apos;serif&apos; yazı çıktısı!"
+        android:typeface="serif" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Bu bir &apos;monospace&apos; yazı fontudur!"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Kalın alın yazısı :D"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="25sp ile &apos;normal&apos;"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Açık mavi."
+        android:textColor="#01ccff" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="#01ccff"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1.5"
+        android:text="@string/mesaj" />
+
+    <TextView
+        android:id="@+id/custom_font"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Chantelli Antiqua fontudur." />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1">
+        <TableRow>
+            <TextView
+                android:id="@+id/tvYazi1"
+                android:gravity="center_horizontal"
+                android:text="@string/mesaj"
+                android:textColor="@color/kirmizi"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:id="@+id/tvYazi2"
+                android:gravity="center_horizontal"
+                android:text="@string/mesaj"
+                android:textColor="@color/kirmizi"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:id="@+id/tvYazi3"
+                android:text="@string/mesaj"
+                android:textColor="@color/kirmizi"
+                android:textSize="35sp" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:id="@+id/tvYazi4"
+                android:gravity="center_horizontal"
+                android:text="@string/mesaj"
+                android:textColor="@color/kirmizi"
+                android:textSize="23sp" />
+        </TableRow>
+
+        <TableRow android:id="@+id/text_hide">
+            <TextView
+                android:id="@+id/tvYazi5"
+                android:gravity="center_horizontal"
+                android:text="@string/mesaj"
+                android:textColor="@color/kirmizi"
+                android:textSize="44sp" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
