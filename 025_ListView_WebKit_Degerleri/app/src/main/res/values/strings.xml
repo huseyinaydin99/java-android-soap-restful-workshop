@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">025_ListView_WebKit_Degerleri</string>
+
+    <string-array name="sosyal_medya">
+        <item >Facebook</item>
+        <item >Twitter</item>
+        <item >Google+</item>
+        <item >Udemy</item>
+    </string-array>
+    <string-array name="web_adresleri">
+        <item >https://www.facebook.com/huseyinaydin99</item>
+        <item >https://www.github.com/huseyinaydin99</item>
+        <item >https://www.instagram.com/huseyinaydin99</item>
+        <item >https://www.linkedin.com/huseyinaydin99/in/huseyin99/</item>
+    </string-array>
+</resources>
