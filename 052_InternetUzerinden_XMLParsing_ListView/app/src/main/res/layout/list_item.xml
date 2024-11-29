@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+  
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+		<!-- ISIM SOYISIM -->
+        <TextView
+            android:id="@+id/adi"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FF0000"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:paddingTop="5dp"
+            android:paddingBottom="3dp" />
+		
+		<!-- MESLEK DETAY ACIKLAMASI -->
+        <TextView
+            android:id="@+id/aciklama"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#610B0B"
+            android:paddingBottom="3dp">
+        </TextView>
+        
+        
+        <!-- MAAS YAZISI VE MAAS MIKTARI -->
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <!-- MAAS YAZISI -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#21610B"
+            android:gravity="left"
+            android:textStyle="bold"
+            android:text="Maaş: " >
+        </TextView>
+        
+        <!-- MAAS MIKTARI -->
+        <TextView
+            android:id="@+id/maas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#3B0B39" 
+            android:textStyle="bold"
+            android:gravity="left">
+        </TextView>
+        </LinearLayout>
+        
+    </LinearLayout>
+
+</LinearLayout>

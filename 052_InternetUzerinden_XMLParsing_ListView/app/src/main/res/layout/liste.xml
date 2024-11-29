@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+<item>
+<id>1</id>
+<name>Hüseyin AYDIN</name>
+<salary>9999999</salary>
+<description>Java Yazilim Gelistiricisi</description>
+</item>
+<item>
+<id>2</id>
+<name>Buğra Dost</name>
+<salary>9999991</salary>
+<description>.NET Yazılım Geliştiricisi</description>
+</item>
+<item>
+<id>3</id>
+<name>Tarık Tarık</name>
+<salary>4444</salary>
+<description>Web Tasarim Uzmani</description>
+</item>
+<item>
+<id>4</id>
+<name>Murat Yücedağ</name>
+<salary>5550</salary>
+<description>Yazilim Gelistirme Eğitmeni</description>
+</item>
+<item>
+<id>5</id>
+<name>Metin Karaca</name>
+<salary>4480</salary>
+<description>Muhasebeci</description>
+</item>
+<item>
+<id>6</id>
+<name>Hatice Albayrak</name>
+<salary>6300</salary>
+<description>Oracle DBA</description>
+</item>
+<item>
+<id>7</id>
+<name>Yasin Ozturk</name>
+<salary>5600</salary>
+<description>Apple iOS Kod Gelistiricisi</description>
+</item>
+<item>
+<id>8</id>
+<name>Hasan Yasin Turkyilmaz</name>
+<salary>4200</salary>
+<description>Apple iOS Kod Gelistiricisi</description>
+</item>
+<item>
+<id>9</id>
+<name>Murat Turkyilmaz</name>
+<salary>3630</salary>
+<description>Apple iOS Kod Gelistiricisi</description>
+</item>
+<item>
+<id>10</id>
+<name>Turker Erkan</name>
+<salary>6900</salary>
+<description>Muhasebe Sefi</description>
+</item>
+</menu>
