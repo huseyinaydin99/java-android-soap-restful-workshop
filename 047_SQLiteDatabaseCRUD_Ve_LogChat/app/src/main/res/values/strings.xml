@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">047_SQLiteDatabaseCRUD_Ve_LogChat</string>
+    <string name="title_activity_main">ANA SAYFA</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title">ÜLKELER LİSTESİ</string>
+    <string name="button_add_contact">Ekle</string>
+
+    <string name="add_menu">Ekle</string>
+    <string name="edit_menu">Düzenle</string>
+    <string name="delete_menu">Sil</string>
+
+    <string name="name_hint">Ülke</string>
+    <string name="cap_hint">Başkent</string>
+    <string name="code_hint">Kod</string>
+
+    <string name="name_lbl">Ülke</string>
+    <string name="cap_lbl">Başkent</string>
+    <string name="code_lbl">Kod</string>
+
+    <string name="confirmTitle">Emin misiniz?</string>
+    <string name="confirmMessage">Kalıcı olarak silinecektir!</string>
+
+    <string name="errorButton">Tamam</string>
+    <string name="errorTitle">Ülke adı gereklidir.</string>
+    <string name="errorMessage">Lütfen bir ülke adı giriniz.</string>
+
+    <string name="cancel_btn">İptal</string>
+    <string name="delete_btn">Sil</string>
+    <string name="save_btn">Kaydet</string>
+</resources>
