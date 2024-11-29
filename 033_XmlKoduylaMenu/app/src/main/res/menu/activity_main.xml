@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_bookmark"
+        android:icon="@drawable/icon_bookmark"
+        android:title="@string/yerimi"/>
+    
+    <item
+        android:id="@+id/menu_save"
+        android:icon="@drawable/icon_save"
+        android:title="Kaydet"/>
+    
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/icon_search"
+        android:title="Ara"/>
+    
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/icon_share"
+        android:title="Paylaş"/>
+    
+    <item
+        android:id="@+id/menu_delete"
+        android:icon="@drawable/icon_delete"
+        android:title="Sil"/>
+    
+    <item
+        android:id="@+id/menu_preferences"
+        android:icon="@drawable/icon_preferences"
+        android:title="Ayarlar">
+        <menu>
+            <item android:id="@+id/item1" android:title="alt menu"/>
+        </menu>
+    </item>
+
+</menu>
