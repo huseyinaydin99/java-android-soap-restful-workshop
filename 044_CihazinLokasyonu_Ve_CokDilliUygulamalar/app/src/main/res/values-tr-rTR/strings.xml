@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locale">T.C.</string>
+    <string name="web_url">"https://www.turkey.com/"</string>
+    <string name="hello">Selam!</string>
+    <string name="goodbye">Güle güle!</string>
+    <string name="please">"Lütfen"</string>
+    <string name="thankyou">Sağ olun!</string>
+    <string name="help">Yardım!</string>
+
+</resources>

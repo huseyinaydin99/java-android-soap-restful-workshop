@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">044_CihazinLokasyonu_Ve_CokDilliUygulamalar</string>
+
+    <string name="locale_label">Locale: </string>
+    <string name="locale">"World-Wide" </string>
+
+    <string name="hello_label">Greet Someone: </string>
+    <string name="hello">Hello!</string>
+
+    <string name="goodbye_label">Say Farewell: </string>
+    <string name="goodbye">Goodbye!</string>
+
+    <string name="please_label">Say Please: </string>
+    <string name="please">Please </string>
+
+    <string name="thankyou_label">Thank Someone: </string>
+    <string name="thankyou">Thank You! </string>
+
+    <string name="help_label">Call for Aid: </string>
+    <string name="help">Help! </string>
+
+    <string name="flag_label">Flag: </string>
+    <string name="map_label">Map: </string>
+
+    <string name="web_label">Web URL: </string>
+    <string name="web_url">https://www.github.com/huseyinaydin99</string>
+</resources>

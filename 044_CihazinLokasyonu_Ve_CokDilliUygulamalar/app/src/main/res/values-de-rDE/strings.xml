@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locale">Germany</string>
+    <string name="web_url">"https://www.germany.com/"</string>
+    <string name="hello">Hallo!</string>
+    <string name="goodbye">Lebewohl!</string>
+    <string name="please">"Bitte"</string>
+    <string name="thankyou">Dankeschön!</string>
+    <string name="help">Helfen!</string>
+
+</resources>

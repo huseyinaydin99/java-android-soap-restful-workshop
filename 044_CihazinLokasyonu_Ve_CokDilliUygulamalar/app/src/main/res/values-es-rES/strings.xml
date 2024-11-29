@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locale">Spain</string>
+    <string name="web_url">"https://www.espanya.com/"</string>
+    <string name="hello">Hola</string>
+    <string name="goodbye">Despedida</string>
+    <string name="please">"Por favor"</string>
+    <string name="thankyou">Gracias</string>
+    <string name="help">Ayuda</string>
+
+</resources>

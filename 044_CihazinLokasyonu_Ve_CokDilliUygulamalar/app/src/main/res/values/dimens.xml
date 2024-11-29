@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="phrase_size">18dp</dimen>
+    <dimen name="phrase_margin">15dp</dimen>
+
+</resources>

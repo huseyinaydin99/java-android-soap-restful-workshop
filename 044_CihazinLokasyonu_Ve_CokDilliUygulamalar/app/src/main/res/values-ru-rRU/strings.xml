@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locale">Russia</string>
+    <string name="web_url">"https://www.russia.com"</string>
+    <string name="hello">Привет</string>
+    <string name="goodbye">До свидания!</string>
+    <string name="please">"пожалуйста"</string>
+    <string name="thankyou">Спасибо!</string>
+    <string name="help">Помогите!</string>
+
+</resources>
