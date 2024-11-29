@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <!-- ADI  -->
+    <TextView
+        android:id="@+id/adiSoyadi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dip"
+        android:paddingLeft="8dip"
+        android:paddingBottom="4dip"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    
+    <!-- AÇIKLAMA -->
+    <TextView android:id="@+id/aciklama"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:paddingLeft="8dip"
+        android:paddingBottom="6sp"
+        android:textSize="15sp"
+        android:layout_below="@id/adiSoyadi"/>
+    
+    <!-- MAAŞ -->
+    <TextView android:id="@+id/maas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:padding="8sp"/>
+ 
+</RelativeLayout>
