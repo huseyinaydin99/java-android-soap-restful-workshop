@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">035_MatematikselIslemleriHesaplamaFormuMy Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="txtYuzde">Yüzde:</string>
+    <string name="btnHesapla">Hesapla</string>
+    <string name="btnTemizle">Temizle</string>
+
+    <string name="rdoTxt15">15%</string>
+    <string name="rdoTxt20">20%</string>
+    <string name="rdoTxtBaska">Başka</string>
+    <string name="kdvsiz">KDVsiz Tutar</string>
+</resources>
