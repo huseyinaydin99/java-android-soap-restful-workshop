@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/arka_zemin" >
+
+    <fragment
+        android:id="@+id/listemiz_fragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="45"
+        android:name="tr.com.huseyinaydin.Listemiz_Fragment" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/web_sayfasini_goster_fragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="55"
+        android:name="tr.com.huseyinaydin.Web_Sayfasini_GosterFragment" >
+    </fragment>
+
+</LinearLayout>

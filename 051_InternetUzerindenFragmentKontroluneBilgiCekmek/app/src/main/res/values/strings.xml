@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mimar Aslan Kursları Çok Kaliteli</string>
+
+    <string-array name="video_egitim_kurslari">
+        <item>Android Uygulama Geliştirme</item>
+        <item>Web Servisleri ile Android Programlama</item>
+        <item>Android Programlama için JAVA ve XML</item>
+        <item>Objective-C Programlama Dili</item>
+        <item>iPhone ve iPad Programlama</item>
+        <item>Java SE - Standard Edition</item>
+        <item>JSP - JavaServer Pages</item>
+        <item>JSF - JavaServer Faces</item>
+        <item>Temel Java Eğitim Dersleri</item>
+    </string-array>
+    <string-array name="web_adresleri">
+        <item>https://www.udemy.com/android-uygulama-gelistirme/?couponCode=android50dolar</item>
+        <item>https://www.udemy.com/draft/39430/?couponCode=android55dolar</item>
+        <item>https://www.udemy.com/android-programlama-icin-java-ve-xml/</item>
+        <item>https://www.udemy.com/objective-c-programlama-dili-egitimi/?previewLandingPage=1</item>
+        <item>https://www.udemy.com/apple-iphone-ve-ipad-programlama-egitimi/?previewLandingPage=1</item>
+        <item>https://www.udemy.com/java-se-standard-edition/?couponCode=java50dolar</item>
+        <item>https://www.udemy.com/jsp-javaserver-pages/?couponCode=jsp50dolar</item>
+        <item>https://www.udemy.com/jsf-javaserver-faces/?couponCode=jsp59dolar</item>
+        <item>https://www.udemy.com/temel-java-egitim-dersleri/</item>
+    </string-array>
+</resources>
