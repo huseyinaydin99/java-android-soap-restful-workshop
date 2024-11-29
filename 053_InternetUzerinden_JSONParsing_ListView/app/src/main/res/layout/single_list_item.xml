@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+  
+  <!-- ISIM SOYISIM -->
+  <TextView android:id="@+id/adi_etiketi"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:textColor="#FF0000"/>
+  
+  <!-- ACIKLAMA MESLEK DETAYI -->
+  <TextView android:id="@+id/aciklama_etiketi"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#610B0B"/>
+  
+  <!-- MAASI -->
+  <TextView android:id="@+id/maas_etiketi"
+      		android:layout_width="fill_parent"
+      		android:layout_height="wrap_content"
+      		 android:textColor="#3B0B39" 
+      		android:textStyle="bold"/>
+
+</LinearLayout>
