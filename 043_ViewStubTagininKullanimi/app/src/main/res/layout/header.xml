@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/turuncu" >
+
+    <LinearLayout
+        android:id="@+id/panelIconLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="5dp" >
+
+        <Button
+            android:id="@+id/btnHome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_home"
+            android:onClick="metot1" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtHeading"
+        style="@style/heading_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@+id/panelIconRight"
+        android:layout_toRightOf="@id/panelIconLeft"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@android:color/white" />
+    <!-- android:layout_toRightOf="@id/panelIconLeft" -->
+    <!-- android:layout_toLeftOf="@+id/panelIconRight" -->
+
+    <LinearLayout
+        android:id="@+id/panelIconRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="5dp" >
+
+        <Button
+            android:id="@+id/btnFeedback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_feedback"
+            android:onClick="metot2" />
+    </LinearLayout>
+
+</RelativeLayout>
