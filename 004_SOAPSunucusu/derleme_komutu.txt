@@ -1,0 +1,2 @@
+cd proje_dizini_ne_ise_o
+javac -d WebContent/WEB-INF/services/SelamWS src/tr/com/huseyinaydin/SelamWS.java
