@@ -1,0 +1,2 @@
+cd proje_dizini_ne_ise_o
+javac -d WebContent/WEB-INF/services/VeritabaniWS src/tr/com/huseyinaydin/VeritabaniWS.java 
