@@ -51,3 +51,22 @@ Projede, geliştirici olarak kullandığım çeşitli araçlarla birlikte ileri 
 Projede web servisleri, istemci ve sunucu arasındaki etkileşimi kolaylaştırırken, Android uygulama geliştirme süreçlerinde kullanıcı deneyimini ön planda tuttum. Web servisleri ile ilgili başlıkları geliştirirken, arka planda çalışan tüm işlemleri kullanıcı dostu bir şekilde görselleştirdim ve sonuçları dinamik bir biçimde ekrana yansıttım. Hem SOAP hem de RESTful teknolojilerini kullanarak geniş bir kullanım alanı sundum. UI/UX odaklı tasarımlar ile uygulamanın işlevselliğini arttırdım ve kullanıcı etkileşimini daha verimli hale getirdim.
 
 Bu projede, web servislerinin temellerinden ileri seviye Android uygulama tasarımına kadar geniş bir yelpazede deneyim kazandım ve kullanıcıların en iyi deneyimi almasını sağladım.
+
+<hr />
+
+#### Java ve Android teknolojilerinde yeterli bir bireyim.
+##### Giriş Seviye Java:
+![Hüseyin Aydın-Java101_page-0001](https://github.com/user-attachments/assets/667e5cf1-59a4-48de-902f-ff7eb2ac71bf)
+![Hüseyin Aydın-Java201_page-0001](https://github.com/user-attachments/assets/229502c8-3384-4ad2-8a50-c11a2b12672d)
+![Hüseyin Aydın-Java301_page-0001](https://github.com/user-attachments/assets/c27c4adb-77b0-4608-bc6f-e86c564ea034)
+
+##### İleri Seviye Java:
+![Hüseyin Aydın-İleri Java101_page-0001](https://github.com/user-attachments/assets/2cc8e0c8-3f6b-484c-ae7c-00becaadc38a)
+![Hüseyin Aydın-İleri Java201_page-0001](https://github.com/user-attachments/assets/7e5f6666-69e4-4225-9910-b1481ba76c8c)
+![Hüseyin Aydın-İleri Java301_page-0001](https://github.com/user-attachments/assets/16bac065-6c52-4bdf-9bea-87c21def1fe3)
+
+##### İleri Seviye Android:
+![Hüseyin Aydın-Android101_page-0001](https://github.com/user-attachments/assets/460c2601-5a8f-4378-8041-51d69e17f928)
+![Hüseyin Aydın-Android201_page-0001](https://github.com/user-attachments/assets/719e42ab-beff-43e7-b925-cff69866d674)
+![Hüseyin Aydın-Android301_page-0001](https://github.com/user-attachments/assets/85002926-8085-4549-ad12-e16da1c2b8dc)
+![Hüseyin Aydın-Android401_page-0001](https://github.com/user-attachments/assets/d9a5d635-948e-42ba-a5f3-35b23934b6f7)
